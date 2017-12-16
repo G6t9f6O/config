@@ -1,0 +1,11 @@
+# COMMON LINUX PACKAGES (zinglax)
+vagrant https://releases.hashicorp.com/vagrant/
+ansible
+virtualbox
+vim
+python3 & python3-dev pip
+git
+svn
+tmux
+sublime-text
+node js
