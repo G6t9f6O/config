@@ -2,7 +2,7 @@
 # __  __ _  __  __ 
 # \ \/ /| ||  \/  |
 #  \__/ |_||_|\/|_|
-# VIM Custom Bash - zinglax
+# VIM Custom Bash - zinglax 
 alias vi='vim'
 
 
