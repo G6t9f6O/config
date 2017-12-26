@@ -38,6 +38,7 @@ Plug 'Xuyuanp/nerdtree-git-plugin'
 Plug 'vim-airline/vim-airline'
 
 " Tag Bar
+" sudo apt-get install ctags
 Plug 'https://github.com/majutsushi/tagbar'
 
 
